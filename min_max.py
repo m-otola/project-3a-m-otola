@@ -1,9 +1,9 @@
 # Omotola Anibaba
 # October 13 2020
-# Description: this program is going to ask the user for any amount of integers, and will then find the smallest number and largest number.
+# Description: this program is going to ask user for numbers, and get min and max values from them.
 
 mini_maxi = int(input("How many integers would you like to enter?"))
-print("Please enter", mini_maxi,"integers.")
+print("Please enter", mini_maxi, "integers.")
 small_num = 9999999999999
 large_num = -999999999999
 for nums in range(0, mini_maxi):
