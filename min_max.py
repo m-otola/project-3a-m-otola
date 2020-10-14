@@ -12,5 +12,5 @@ for nums in range(0, mini_maxi):
         small_num = looks
     if looks > large_num:
         large_num = looks
-print("Min:", small_num)
-print("Max:", large_num)
+print("min:", small_num)
+print("max:", large_num)
