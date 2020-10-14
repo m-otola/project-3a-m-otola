@@ -5,7 +5,7 @@
 mini_maxi = int(input("How many integers would you like to enter?"))
 print("Please enter", mini_maxi, "integers.")
 small_num = 9999999999999
-large_num = -999999999999
+large_num = -99999999999
 for nums in range(0, mini_maxi):
     looks = int(input())
     if looks < small_num:
