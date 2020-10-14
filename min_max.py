@@ -1,6 +1,6 @@
 # Omotola Anibaba
 # October 13 2020
-# Write a program that asks the user how many integers they would like to enter.
+# Write a program that asks the user how many integers they would like to enter. Min & max values from integers.
 mini_maxi = int(input("How many integers would you like to enter?"))
 print("Please enter", mini_maxi, "integers.")
 small_num = 9999999999999
