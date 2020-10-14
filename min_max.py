@@ -8,7 +8,7 @@ small_num = 9999999999999
 large_num = -99999999999
 for nums in range(0, mini_maxi):
     looks = int(input())
-    if looks< small_num:
+    if looks < small_num:
         small_num = looks
     if looks > large_num:
         large_num = looks
