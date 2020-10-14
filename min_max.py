@@ -1,6 +1,6 @@
 # Omotola Anibaba
 # October 13 2020
-# Description: this program is going to ask user for numbers, and get min and max values from them.
+# This program is going to ask user for numbers, and get min and max values from them.
 
 mini_maxi = int(input("How many integers would you like to enter?"))
 print("Please enter", mini_maxi, "integers.")
